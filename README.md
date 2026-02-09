@@ -6,7 +6,7 @@ Tecnologias aprendidas:
 - HTML
 - CSS
 
-Link de acesso disponível em: https://rodrigothirteen13.github.io/bikcraft/ 
+Link de acesso disponível em: https://rodrigoncalve86.github.io/bikcraft/ 
 
 
 
